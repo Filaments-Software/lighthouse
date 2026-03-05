@@ -1,0 +1,58 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "shaders/water.shader"
+
+	//---- Foam ----
+	FoamTexture "[1.000000 1.000000 1.000000 0.000000]"
+	g_bEnableFoam "0"
+	g_flFoamContrast "5.000"
+	g_flFoamDepth "1.000"
+	g_flFoamScale "50.000"
+	g_flFoamSharpness "3.000"
+	g_flFoamSpeed "0.500"
+	g_vFoamColor "[0.949020 0.949020 0.949020 1.000000]"
+
+	//---- Fog ----
+	g_bFogEnabled "1"
+
+	//---- Fresnel ----
+	g_bEnableFresnel "1"
+	g_vReflectionColor "[1.000000 1.000000 1.000000 0.000000]"
+	g_vReflectionDir "[0.707 0.707 0.000]"
+
+	//---- Material ----
+	TextureColor "[0.000000 0.729412 1.000000 0.000000]"
+	TextureTranslucency "materials/default/default_trans.tga"
+
+	//---- Normals ----
+	NormalMapA "materials/water/textures/water_normal.png"
+	NormalMapB "materials/default/default_normal.tga"
+
+	//---- Reflection ----
+	g_flEnvReflectionStrength "0.290"
+
+	//---- Refraction ----
+	g_flRefractionAmount "0.000"
+
+	//---- Surface ----
+	g_flGlossiness "0.920"
+	g_flMetalness "0.000"
+	g_flNormalScale "158.846"
+	g_flNormalSpeed "0.315"
+	g_flNormalStrength "0.692"
+
+	//---- Water Color ----
+	g_flWaterDepth "200.000"
+	g_flWaterStart "0.000"
+	g_vRefractionTint "[0.400000 0.701961 0.800000 1.000000]"
+	g_vWaterFogColor "[0.000000 0.301961 0.501961 1.000000]"
+
+	//---- Waves ----
+	g_bEnableVertexDisplacement "0"
+	g_flWaveAmplitude "1.678"
+	g_flWaveFrequency "0.500"
+	g_flWaveSpeed "1.000"
+	g_flWaveSteepness "0.200"
+}

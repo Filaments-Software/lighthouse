@@ -1,0 +1,177 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc30:version{8c2d7a91-9c42-4bf0-883a-5a3b1762d4f1} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = [  ]
+						use_global_default = true
+						global_default_material = "materials/dev_nyro/dev_orange_c-03.vmat"
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						filename = "lighthouse.fbx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
+						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"func_breakable_3",
+								"func_breakable_4",
+								"func_breakable_5",
+								"func_breakable_6",
+								"func_illusionary_89",
+								"func_physbox_36",
+								"func_physbox_37",
+								"func_physbox_38",
+								"func_physbox_39",
+								"landing_spot",
+								"sign",
+								"world_geometry",
+								"zs_lighthouse_v1_disp_3740",
+								"zs_lighthouse_v1_disp_3741",
+								"zs_lighthouse_v1_disp_3742",
+								"zs_lighthouse_v1_disp_3743",
+								"zs_lighthouse_v1_disp_3744",
+								"zs_lighthouse_v1_disp_3745",
+								"zs_lighthouse_v1_disp_3746",
+								"zs_lighthouse_v1_disp_3747",
+								"zs_lighthouse_v1_disp_3748",
+								"zs_lighthouse_v1_disp_3749",
+								"zs_lighthouse_v1_disp_3750",
+								"zs_lighthouse_v1_disp_3751",
+								"zs_lighthouse_v1_disp_3752",
+								"zs_lighthouse_v1_disp_3753",
+								"zs_lighthouse_v1_disp_3754",
+								"zs_lighthouse_v1_disp_3755",
+								"zs_lighthouse_v1_disp_3756",
+								"zs_lighthouse_v1_disp_3757",
+								"zs_lighthouse_v1_disp_3758",
+								"zs_lighthouse_v1_disp_3759",
+								"zs_lighthouse_v1_disp_3760",
+								"zs_lighthouse_v1_disp_3761",
+								"zs_lighthouse_v1_disp_3762",
+								"zs_lighthouse_v1_disp_3763",
+								"zs_lighthouse_v1_disp_3764",
+								"zs_lighthouse_v1_disp_3765",
+								"zs_lighthouse_v1_disp_3766",
+								"zs_lighthouse_v1_disp_3767",
+								"zs_lighthouse_v1_disp_3768",
+								"zs_lighthouse_v1_disp_3769",
+								"zs_lighthouse_v1_disp_3770",
+								"zs_lighthouse_v1_disp_3771",
+								"zs_lighthouse_v1_disp_3772",
+								"zs_lighthouse_v1_disp_3773",
+								"zs_lighthouse_v1_disp_3774",
+								"zs_lighthouse_v1_disp_3775",
+								"zs_lighthouse_v1_disp_3776",
+								"zs_lighthouse_v1_disp_3777",
+								"zs_lighthouse_v1_disp_3778",
+								"zs_lighthouse_v1_disp_3779",
+								"zs_lighthouse_v1_disp_3780",
+								"zs_lighthouse_v1_disp_3781",
+								"zs_lighthouse_v1_disp_3782",
+								"zs_lighthouse_v1_disp_3783",
+								"zs_lighthouse_v1_disp_3784",
+								"zs_lighthouse_v1_disp_3785",
+								"zs_lighthouse_v1_disp_3786",
+								"zs_lighthouse_v1_disp_3787",
+								"zs_lighthouse_v1_disp_3788",
+								"zs_lighthouse_v1_disp_3789",
+								"zs_lighthouse_v1_disp_3790",
+								"zs_lighthouse_v1_disp_3791",
+								"zs_lighthouse_v1_disp_3792",
+								"zs_lighthouse_v1_disp_3793",
+								"zs_lighthouse_v1_disp_3794",
+								"zs_lighthouse_v1_disp_3795",
+								"zs_lighthouse_v1_disp_3796",
+								"zs_lighthouse_v1_disp_3797",
+								"zs_lighthouse_v1_disp_3798",
+								"zs_lighthouse_v1_disp_3799",
+								"zs_lighthouse_v1_disp_3800",
+								"zs_lighthouse_v1_disp_3801",
+								"zs_lighthouse_v1_disp_3802",
+								"zs_lighthouse_v1_disp_3803",
+								"zs_lighthouse_v1_disp_3804",
+								"zs_lighthouse_v1_disp_3805",
+								"zs_lighthouse_v1_disp_3806",
+								"zs_lighthouse_v1_disp_3807",
+								"zs_lighthouse_v1_disp_3808",
+								"zs_lighthouse_v1_disp_3809",
+								"zs_lighthouse_v1_disp_3810",
+								"zs_lighthouse_v1_disp_3811",
+							]
+						}
+					},
+				]
+			},
+			{
+				_class = "ModelModifierList"
+				children = 
+				[
+					{
+						_class = "ModelModifier_ScaleAndMirror"
+						scale = 0.263779
+						mirror_x = false
+						mirror_y = false
+						mirror_z = false
+						flip_bone_forward = false
+						swap_left_and_right_bones = false
+					},
+				]
+			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsMeshFile"
+						name = "lighthouse"
+						parent_bone = ""
+						surface_prop = "default"
+						collision_tags = "solid"
+						recenter_on_parent_bone = false
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						filename = "lighthouse.fbx"
+						import_scale = 1.0
+						maxMeshVertices = 0
+						qemError = 0.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+		base_model_name = ""
+	}
+}
