@@ -1,0 +1,18 @@
+{
+  "AlbedoImage": "materials/terrain/dirt/ground103_2k-jpg_color.jpg",
+  "RoughnessImage": "materials/terrain/dirt/ground103_2k-jpg_roughness.jpg",
+  "NormalImage": "materials/terrain/dirt/ground103_2k-jpg_normalgl.jpg",
+  "HeightImage": "materials/terrain/dirt/ground103_2k-jpg_displacement.jpg",
+  "AOImage": "materials/terrain/dirt/ground103_2k-jpg_ambientocclusion.jpg",
+  "UVScale": 1,
+  "Metalness": 0,
+  "NormalStrength": 1,
+  "HeightBlendStrength": 1,
+  "DisplacementScale": 1,
+  "NoTiling": true,
+  "Surface": "surfaces/dirt.surface",
+  "__references": [
+    "duccsoft.forest_sticks_tmat#60687"
+  ],
+  "__version": 0
+}

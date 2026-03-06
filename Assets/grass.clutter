@@ -1,0 +1,33 @@
+{
+  "Entries": [
+    {
+      "Prefab": null,
+      "Model": "models/sbox_props/nature/grass_clumps/grass_clump_a.vmdl",
+      "Weight": 1,
+      "HasAsset": true,
+      "AssetName": "models/sbox_props/nature/grass_clumps/grass_clump_a.vmdl"
+    }
+  ],
+  "IsEmpty": false,
+  "TileSizeEnum": "Size512",
+  "TileRadius": 4,
+  "Scatterer": {
+    "Type": "TerrainMaterialScatterer",
+    "Scale": "0.8 1.2",
+    "Density": 0.1,
+    "HeightOffset": 0,
+    "AlignToNormal": false,
+    "RandomYaw": true,
+    "Mappings": [
+      {
+        "Material": "materials/terrain/grass008/grass.tmat",
+        "EntryIndices": []
+      }
+    ],
+    "UseFallback": true
+  },
+  "__references": [
+    "facepunch.grass_clump_a#145217"
+  ],
+  "__version": 0
+}

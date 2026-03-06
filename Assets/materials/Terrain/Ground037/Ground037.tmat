@@ -1,0 +1,16 @@
+{
+  "AlbedoImage": "materials/terrain/ground037/ground037_2k-jpg_color.jpg",
+  "RoughnessImage": "materials/terrain/ground037/ground037_2k-jpg_roughness.jpg",
+  "NormalImage": "materials/terrain/ground037/ground037_2k-jpg_normalgl.jpg",
+  "HeightImage": "materials/terrain/ground037/ground037_2k-jpg_displacement.jpg",
+  "AOImage": "materials/terrain/ground037/ground037_2k-jpg_ambientocclusion.jpg",
+  "UVScale": 4,
+  "Metalness": 0,
+  "NormalStrength": 1,
+  "HeightBlendStrength": 1,
+  "DisplacementScale": 2.9490616,
+  "NoTiling": false,
+  "Surface": null,
+  "__references": [],
+  "__version": 0
+}
