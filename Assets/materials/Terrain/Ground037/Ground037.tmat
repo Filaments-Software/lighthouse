@@ -8,8 +8,8 @@
   "Metalness": 0,
   "NormalStrength": 1,
   "HeightBlendStrength": 1,
-  "DisplacementScale": 2.9490616,
-  "NoTiling": false,
+  "DisplacementScale": 0.8333334,
+  "NoTiling": true,
   "Surface": null,
   "__references": [],
   "__version": 0
