@@ -40,7 +40,7 @@
 						filename = "models/armchair/armchair andreu world - dado bu0320.fbx"
 						import_translation = [ 0.0, 0.0, 0.0 ]
 						import_rotation = [ 0.0, 0.0, 0.0 ]
-						import_scale = 1.0
+						import_scale = 0.03937
 						align_origin_x_type = "None"
 						align_origin_y_type = "None"
 						align_origin_z_type = "None"
@@ -57,32 +57,53 @@
 				]
 			},
 			{
-				_class = "ModelModifierList"
-				children = 
-				[
-					{
-						_class = "ModelModifier_ScaleAndMirror"
-						scale = 0.03937
-						mirror_x = false
-						mirror_y = false
-						mirror_z = false
-						flip_bone_forward = false
-						swap_left_and_right_bones = false
-					},
-				]
-			},
-			{
 				_class = "PhysicsShapeList"
 				children = 
 				[
 					{
 						_class = "PhysicsShapeBox"
 						parent_bone = ""
-						surface_prop = "default"
+						surface_prop = "fabric"
 						collision_tags = "solid"
-						origin = [ 0.0, 0.0, 0.0 ]
+						origin = [ 1.338105, -0.156262, 8.497904 ]
 						angles = [ 0.0, 0.0, 0.0 ]
-						dimensions = [ 64.0, 64.0, 64.0 ]
+						dimensions = [ 30.941849, 36.004959, 13.634464 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "fabric"
+						collision_tags = "solid"
+						origin = [ 1.338105, -14.296646, 20.648586 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 30.941849, 7.724202, 13.634464 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "fabric"
+						collision_tags = "solid"
+						origin = [ 1.338105, 14.485849, 20.648586 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 30.941849, 7.724202, 13.634464 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "fabric"
+						collision_tags = "solid"
+						origin = [ -11.336794, 0.050169, 20.648586 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 7.866942, 36.113499, 13.634464 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "fabric"
+						collision_tags = "solid"
+						origin = [ -2.657122, 0.009261, 20.682478 ]
+						angles = [ -18.0, 0.0, 0.0 ]
+						dimensions = [ 8.086288, 20.403118, 13.634464 ]
 					},
 				]
 			},

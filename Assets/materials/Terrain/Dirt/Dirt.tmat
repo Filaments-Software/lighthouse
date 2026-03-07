@@ -9,7 +9,7 @@
   "NormalStrength": 1,
   "HeightBlendStrength": 1,
   "DisplacementScale": 0.8854166,
-  "NoTiling": true,
+  "NoTiling": false,
   "Surface": "surfaces/dirt.surface",
   "__references": [],
   "__version": 0

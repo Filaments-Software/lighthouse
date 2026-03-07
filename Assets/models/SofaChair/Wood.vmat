@@ -1,0 +1,44 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "shaders/complex.shader"
+
+	//---- Color ----
+	F_TINT_MASK 1
+
+	//---- PBR ----
+	F_SPECULAR 1
+
+	//---- Ambient Occlusion ----
+	g_flAmbientOcclusionDirectDiffuse "0.000"
+	g_flAmbientOcclusionDirectSpecular "0.000"
+	TextureAmbientOcclusion "materials/default/default_ao.tga"
+
+	//---- Color ----
+	g_flModelTintAmount "0.000"
+	g_vColorTint "[0.070588 0.047059 0.031373 0.000000]"
+	TextureColor "materials/default/default_color.tga"
+	TextureTintMask "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Fade ----
+	g_flFadeExponent "1.000"
+
+	//---- Fog ----
+	g_bFogEnabled "1"
+
+	//---- Metalness ----
+	g_flMetalness "0.000"
+
+	//---- Normal ----
+	TextureNormal "materials/default/default_normal.tga"
+
+	//---- Roughness ----
+	g_flRoughnessScaleFactor "1.000"
+	TextureRoughness "materials/wood/wood_0024/wood_0024_roughness_2k.jpg"
+
+	//---- Texture Coordinates ----
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	g_vTexCoordScrollSpeed "[0.000 0.000]"
+}

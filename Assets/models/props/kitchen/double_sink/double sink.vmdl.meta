@@ -1,0 +1,21 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Kitchen Sink Basin",
+      "Type": "model",
+      "Org": "drakefruit",
+      "Ident": "sinkbasin",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "Metadata": {
+        "SingleAssetSource": "models/props/kitchen/double_sink/double sink.vmdl_c"
+      }
+    }
+  }
+}
