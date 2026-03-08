@@ -1,0 +1,12 @@
+{
+  "MasterVolume": "1",
+  "LoopedSounds": [
+    {
+      "SoundFile": "audio/ambience/coast 2014 coast mono 1.vsnd",
+      "Volume": "0.2"
+    }
+  ],
+  "StingSounds": [],
+  "__references": [],
+  "__version": 0
+}
