@@ -1,0 +1,23 @@
+{
+  "publish": {
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "Wood Board",
+      "Type": "material",
+      "Org": "local",
+      "Ident": "woodboard",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": null,
+      "EditorReferences": [
+        "jase.carddebris_a_03#12113"
+      ],
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "Metadata": {
+        "SingleAssetSource": "models/planks/materials/wood_board.vmat"
+      }
+    }
+  }
+}

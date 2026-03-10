@@ -1,0 +1,21 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Wooden Plank 004",
+      "Type": "model",
+      "Org": "fss",
+      "Ident": "woodenplank004",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "Metadata": {
+        "SingleAssetSource": "models/planks/wooden_plank_004.vmdl"
+      }
+    }
+  }
+}

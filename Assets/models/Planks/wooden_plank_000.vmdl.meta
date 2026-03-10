@@ -1,0 +1,21 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Tintable Wooden Plank 000",
+      "Type": "model",
+      "Org": "drakefruit",
+      "Ident": "woodenplank000",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "Metadata": {
+        "SingleAssetSource": "models/planks/wooden_plank_000.vmdl"
+      }
+    }
+  }
+}

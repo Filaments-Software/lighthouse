@@ -1,0 +1,23 @@
+{
+  "publish": {
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "Kitchensink",
+      "Type": "material",
+      "Org": "local",
+      "Ident": "kitchensink",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": null,
+      "EditorReferences": [
+        "jase.carddebris_a_03#12113"
+      ],
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "Metadata": {
+        "SingleAssetSource": "models/props/kitchen/double_sink/materials/kitchensink.vmat"
+      }
+    }
+  }
+}

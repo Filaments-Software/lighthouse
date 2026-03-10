@@ -1,0 +1,24 @@
+{
+  "publish": {
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "Fabric",
+      "Type": "material",
+      "Org": "local",
+      "Ident": "fabric",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": null,
+      "EditorReferences": [
+        "jase.carddebris_a_03#12113",
+        "facepunch.wood_plank_hs_02#111266"
+      ],
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "Metadata": {
+        "SingleAssetSource": "models/sofachair/fabric.vmat"
+      }
+    }
+  }
+}
