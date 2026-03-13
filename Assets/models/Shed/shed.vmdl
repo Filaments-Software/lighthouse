@@ -1,0 +1,216 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc30:version{8c2d7a91-9c42-4bf0-883a-5a3b1762d4f1} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = [  ]
+						use_global_default = true
+						global_default_material = "models/shed/materials/wood.vmat"
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						filename = "models/shed/uploads_files_5922633_cgtrader_optimized_shed.fbx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
+						import_scale = 39.369999
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"Wood",
+								"Wood_001",
+								"Wood_002",
+								"Wood_003",
+								"Wood_004",
+								"Wood_005",
+								"Wood_006",
+								"Wood_007",
+								"Wood_008",
+								"Wood_009",
+								"Wood_010",
+								"Wood_011",
+								"Wood_012",
+								"Wood_013",
+								"Wood_014",
+								"Wood_015",
+								"Wood_016",
+								"Wood_017",
+								"Wood_018",
+								"Wood_019",
+								"Wood_020",
+								"Wood_021",
+								"Wood_022",
+								"Wood_023",
+								"Wood_024",
+								"Wood_025",
+								"Wood_026",
+								"Wood_027",
+								"Wood_028",
+								"Wood_029",
+								"Wood_030",
+								"Wood_031",
+								"Wood_032",
+								"Wood_033",
+								"Wood_034",
+								"Wood_035",
+								"Wood_036",
+								"Wood_037",
+								"Wood_038",
+								"Wood_039",
+								"Wood_040",
+								"Wood_041",
+								"Wood_042",
+								"Wood_043",
+								"Wood_044",
+								"Wood_045",
+								"Wood_046",
+								"Wood_047",
+								"Wood_048",
+								"Wood_049",
+								"Wood_050",
+								"Wood_051",
+								"Wood_052",
+								"Wood_053",
+								"Wood_054",
+								"Wood_055",
+								"Wood_056",
+								"Wood_057",
+								"Wood_058",
+								"Wood_059",
+								"Wood_060",
+								"Wood_061",
+								"Wood_062",
+								"Wood_063",
+								"Wood_064",
+								"Wood_065",
+								"Wood_066",
+								"Wood_067",
+								"Wood_068",
+								"Wood_069",
+								"Wood_070",
+								"Wood_071",
+								"Wood_072",
+								"Wood_073",
+								"Wood_074",
+								"Wood_075",
+								"Wood_076",
+								"Wood_077",
+								"Wood_078",
+								"Wood_079",
+								"Wood_080",
+								"Wood_081",
+								"Wood_082",
+								"Wood_083",
+								"Wood_084",
+								"Wood_085",
+								"Wood_086",
+								"Wood_087",
+								"Wood_088",
+								"Wood_089",
+								"Wood_090",
+								"Wood_091",
+								"Wood_092",
+								"Wood_093",
+								"Wood_094",
+								"Wood_095",
+								"Wood_096",
+								"Wood_097",
+								"Wood_098",
+								"Wood_099",
+								"Wood_100",
+								"Wood_101",
+								"Wood_102",
+								"Wood_103",
+								"Wood_104",
+								"Wood_105",
+								"Wood_106",
+								"Wood_107",
+								"Wood_108",
+								"Wood_109",
+								"Wood_110",
+								"Wood_111",
+								"Wood_112",
+								"Wood_113",
+								"Wood_114",
+								"Wood_115",
+								"Wood_116",
+								"Wood_117",
+								"Wood_118",
+								"Wood_119",
+								"Wood_120",
+								"Wood_121",
+								"Wood_122",
+								"Wood_123",
+								"Wood_124",
+								"Wood_125",
+								"Wood_126",
+								"Wood_127",
+								"Wood_128",
+								"Wood_129",
+								"Wood_130",
+								"Wood_131",
+								"Wood_132",
+								"Wood_133",
+								"Wood_134",
+								"Wood_135",
+								"Wood_136",
+								"Wood_137",
+								"Wood_138",
+								"Wood_139",
+								"Wood_140",
+								"Wood_141",
+								"Wood_142",
+								"Wood_143",
+								"Wood_144",
+								"Wood_145",
+								"Wood_146",
+								"Wood_147",
+								"Wood_148",
+								"Wood_149",
+								"Wood_150",
+								"Wood_151",
+								"Wood_152",
+								"Wood_153",
+							]
+						}
+					},
+				]
+			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsMeshFromRender"
+						parent_bone = ""
+						surface_prop = "wood"
+						collision_tags = "solid"
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+		base_model_name = ""
+	}
+}
